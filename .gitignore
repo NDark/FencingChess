@@ -1,3 +1,9 @@
 /Library/metadata
 /Library/ScriptAssemblies
 /Temp
+/*.sln
+/*.pidb
+/*.userprefs
+/*.csproj
+/*.csproj
+/*.sln
