@@ -6,4 +6,11 @@
 |1101|Question 1|
 |1102|Question 2|
 |1103|Question 3|
-	
+
+
+|1201|Again!|
+|1202|Please Answer!|
+|1203|Correct|
+|1204|False|
+|1205|Ready?(Press Here)|
+|1206|You've dead.|

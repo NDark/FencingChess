@@ -6,3 +6,10 @@
 |1101|Frage 1|
 |1102|Frage 2|
 |1103|Frage 3|
+
+|1201|Noch Einmal!|
+|1202|bitte antworten!|
+|1203|richtig|
+|1204|falsch|
+|1205|bereit?( Drücken Sie )|
+|1206|Sie sind bereits tot.|
