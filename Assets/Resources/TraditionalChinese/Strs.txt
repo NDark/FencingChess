@@ -1,7 +1,8 @@
 
 |1001|鍵盤擊劍|
 |1002|請按此進入|
-|1003|Kobayashi Maru Commander is a fan-based none-profit prototype|
-|1004|game project. I developped it from Sep. 2012 to Feb. 2013.|
-|1005|Enjoy and feel free to comment, and report bugs.|
-	
+
+|1100|返回|
+|1101|問題 1|
+|1102|問題 2|
+|1103|問題 3|

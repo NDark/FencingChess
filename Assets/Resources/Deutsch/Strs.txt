@@ -1,6 +1,8 @@
 
 |1001|Schwertkampf Schach|
 |1002|(Drücken Sie hier für mehr.)|
-|1003|Kobayashi Maru Commander is a fan-based none-profit prototype|
-|1004|game project. I developped it from Sep. 2012 to Feb. 2013.|
-|1005|Enjoy and feel free to comment, and report bugs.|
+
+|1100|zurück|
+|1101|Frage 1|
+|1102|Frage 2|
+|1103|Frage 3|

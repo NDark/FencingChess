@@ -1,7 +1,9 @@
 
 |1001|Fencing Chess|
 |1002|Press Here To Enter|
-|1003|Kobayashi Maru Commander is a fan-based none-profit prototype|
-|1004|game project. I developped it from Sep. 2012 to Feb. 2013.|
-|1005|Enjoy and feel free to comment, and report bugs.|
+
+|1100|Back|
+|1101|Question 1|
+|1102|Question 2|
+|1103|Question 3|
 	
