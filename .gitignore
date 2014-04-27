@@ -1,4 +1,3 @@
-/Library/metadata
 /Library/ScriptAssemblies
 /Temp
 /*.sln
@@ -7,3 +6,5 @@
 /*.csproj
 /*.csproj
 /*.sln
+
+*.meta
