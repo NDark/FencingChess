@@ -14,4 +14,4 @@
 |1205|bereit?( Drücken Sie )|
 |1206|Sie sind bereits tot.|
 |1211|Der Angriff abgespielt.(bitte warten.)|
-|1212|Wählen Sie Ihre Reaktion.|
+|1212|Wählen Sie Ihre Reaktion.(lassen Sie zu wählen.)|

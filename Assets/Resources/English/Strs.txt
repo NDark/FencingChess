@@ -14,4 +14,4 @@
 |1205|Ready?(Press Here)|
 |1206|You've dead.|
 |1211|The attack is playing.(Please wait)|
-|1212|What's your reaction?|
+|1212|What's your reaction?(release to choose.)|
