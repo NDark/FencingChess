@@ -6,5 +6,8 @@
 /*.csproj
 /*.csproj
 /*.sln
+/Library/*.log
+/LIbrary/ShaderCache
 
+*.DS_Store
 *.meta
