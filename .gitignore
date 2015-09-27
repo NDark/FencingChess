@@ -7,7 +7,9 @@
 /*.csproj
 /*.sln
 /Library/*.log
-/LIbrary/ShaderCache
+/Library/ShaderCache
+/Library/metadata
+/Publish/*.apk
 
 *.DS_Store
 *.meta
